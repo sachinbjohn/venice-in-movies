@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>Links with pics</name>
+<Placemark>
+	
+	<name>Cafe Florian, Piazza San Marco 56-59</name>
+	<description><![CDATA[<p>
+		<a href=http://www.imdb.com/title/tt0134119>The Talented Mr. Ripley(1999)</a><img src="http://pic1.filmovamista.cz/img/1108-The-Talented-Mr--Ripley/23381-Meeting-with-Dickies-father-miniature.jpg" height="183" width="241" alt="The Talented Mr. Ripley" /><br><br>
+	</p>]]></description>
+	<Point><coordinates>12.3379595,45.4335887,0</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Piazza San Marco</name>
+	<description><![CDATA[<p>
+		<img src="http://pic1.filmovamista.cz/img/1119-The-Italian-Job/22132-Charlie-meets-John-miniature.jpg" height="183" width="241" alt="The Italian Job" />
+		<img src="http://pic1.filmovamista.cz/img/399-Casino-Royale/20866-San-Marco-miniature.jpg" height="183" width="241" alt="Casino Royale" />
+    		<img src="http://pic2.filmovamista.cz/img/1119-The-Italian-Job/23045-The-Square-miniature.jpg" height="183" width="241" alt="The Italian Job" />
+		<img src="http://pic3.filmovamista.cz/img/1108-The-Talented-Mr--Ripley/23380-Tom-meets-Peter-miniature.jpg" height="183" width="241" alt="The Talented Mr. Ripley" />
+		<a href=http://www.imdb.com/title/tt0055535>Totòtruffa '62(1961)</a><br><br>
+		<a href=http://www.imdb.com/title/tt2157452>The Decline of the West(2013)</a><br><br>
+		<a href=http://www.imdb.com/title/tt0055141>Marco Polo(1962)</a><br><br>
+		<a href=http://www.imdb.com/title/tt1048395>Episode #1.3212(2000)</a><br><br>
+		<a href=http://www.imdb.com/title/tt4191374>Ti voglio bene(2015)</a><br><br>
+		<a href=http://www.imdb.com/title/tt1079040>Episode #1.3213(2000)</a><br><br>
+		<a href=http://www.imdb.com/title/tt1248970>Alien Sex Files 3: Aliens Gone Wild(2008)</a><br><br>
+		<a href=http://www.imdb.com/title/tt0059690>Se non avessi più te(1965)</a><br><br>
+		<a href=http://www.imdb.com/title/tt0065000>Slogan(1969)</a><br><br>
+		<a href=http://www.imdb.com/title/tt0075676>Amore(1978)</a><br><br>
+		<a href=http://www.imdb.com/title/tt2526664>Italy in a Day(2014)</a><br><br>
+	</p>]]></description>
+	<Point><coordinates>12.3384717,45.4341668,0</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Città di Padova Boat, Riva degli Schiavoni, Piazza San Marco, San Marco</name>
+	<description><![CDATA[<p>
+  		<img src="http://pic1.filmovamista.cz/img/1432-From-Russia-with-Love/Happy-ending-miniature.jpg" height="183" width="241" alt="From Russia with Love" />
+		<a href=http://www.imdb.com/title/tt0793030>The Amazing Race(2003)</a><br><br>
+		<a href=http://www.imdb.com/title/tt0285335>The Amazing Race(2001–)</a><br><br>
+		<a href=http://www.imdb.com/title/tt0793017>I Wasn't Even Going to Touch You Until You Slammed My Head Backwards!(2003)</a><br><br>
+	</p>]]></description>
+	<Point><coordinates>12.3371278,45.4339351,0</coordinates></Point>
+</Placemark>
+<Placemark>
+	<name>Chiesa di San Barnaba, Campo San Barnaba, Dorsoduro, Venice, Veneto, Italy</name>
+	<description><![CDATA[<p>
+		<img src="http://vignette2.wikia.nocookie.net/indianajones/images/e/e3/Piazza.jpg/revision/latest?cb=20100826185448" height="183" width="241" alt="IJ" />
+		<a href=http://www.imdb.com/title/tt0097576>Indiana Jones and the Last Crusade(1989)</a><br><br>
+	</p>]]></description>
+	<Point><coordinates>12.3249872,45.4330526,0</coordinates></Point>
+</Placemark>
+</Document></kml>
+
+
